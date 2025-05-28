@@ -8,3 +8,8 @@
 
 start_viewer.bat
 
+
+for HDRI
+https://hdri-skies.com/free-hdris/free-hdri-map-818/
+
+https://polyhaven.com/hdris
