@@ -87,7 +87,7 @@ python start_viewer.py
 
 ```
 Ccode3DGen_v1_4_/
-├── CcodeGLB_Viewer_v1_2.pyd    # Main application file
+├── CcodeGLB_Viewer_v1_3.pyd    # Main application file
 ├── requirementsViewer.txt # Dependencies
 ├── server_files/              # Directory for model files
 │   └── hdri/                  # HDRI environment maps
