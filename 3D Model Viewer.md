@@ -1,8 +1,9 @@
 # C:\code> 3D Model Viewer
 
-A powerful 3D model viewer application that supports both web-based and OpenGL-based viewing modes. The application can handle various 3D model formats including GLB, GLTF, OBJ, and PLY files.
+A powerful 3D model viewer application that supports both web-based and OpenGL-based viewing modes. The application can handle various 3D model formats, including GLB, GLTF, OBJ, and PLY files.
 
-![image](https://github.com/Dahandla/C-code-3D-Model-Viewer/blob/b1ea6b33accc2a830e96d24fd04266ccc11112ee/resources/Image5b.png)
+![image](https://github.com/Dahandla/C-code-3D-Model-Viewer/blob/71d7f8363bb2da0e2145445bef51178e8f0a5fef/resources/Image5b.png)
+
 
 ## Features
 
